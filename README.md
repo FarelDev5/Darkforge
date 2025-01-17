@@ -5,14 +5,18 @@ alat ini dapat membantu anda dalam melakukan penginstala serta merubah tampilan 
 tools ini hanya di gunakan untuk belajar, saya tidak akan bertanggung jawab jika di salah gunakan, semua tergantung pada cara anda menggunakan tools ini
 
 #penginstalan termux
-``pkg update && pkg upgarde``
-``pkg install python -y``
-``pkg install bash``
+`pkg update && pkg upgarde`
+`pkg install python -y`
+`pkg install bash`
+
+`pkg install git`
+`git clone https://github.com/FarelDev5/Darkforge`
+`cd Darkforge`
 
 jalankan tools
 
-``bash install.sh``
+`bash install.sh`
 
 tools 
 
-``python darkforge.py``
+`python darkforge.py`
