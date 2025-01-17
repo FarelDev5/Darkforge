@@ -65,7 +65,7 @@ def main():
     display_logo()
     display_cracker_lines()
     console.print("[green bold]Welcome to Darkforge Terminal![/]", justify="center")
-        continue
+        
 
     while True:
         try:
